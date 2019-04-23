@@ -1,0 +1,9 @@
+Python Module Specific Resources
+Module - sqlite3
+https://docs.python.org/3.7/library/sqlite3.html#module-functions-and-constants
+
+Module - docx
+https://python-docx.readthedocs.io/en/latest/index.html
+
+Module - nmap
+https://nmap.org/book/man.html
